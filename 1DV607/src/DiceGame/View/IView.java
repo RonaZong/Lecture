@@ -1,4 +1,4 @@
-package Example.View;
+package DiceGame.View;
 
 public interface IView {
 
